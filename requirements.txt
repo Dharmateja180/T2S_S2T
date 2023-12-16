@@ -1,0 +1,5 @@
+googletrans==4.0.0-rc1
+gtts==2.2.3
+pygame==2.1.2
+SpeechRecognition==3.8.1
+streamlit==1.18.0
