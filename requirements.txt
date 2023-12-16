@@ -3,4 +3,4 @@ gtts==2.2.3
 pygame==2.1.2
 SpeechRecognition==3.8.1
 streamlit==1.18.0
-audio_recorder_streamlit==<version>
+audio_recorder_streamlit==0.0.8
